@@ -1,0 +1,1 @@
+from .skill_type import SkillType
